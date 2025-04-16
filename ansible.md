@@ -89,7 +89,7 @@ Instead of doing this manually or through separate scripts, orchestration tools 
 - Automate repetitive tasks (e.g., updates, service restarts)
 - Orchestrate complex operations (e.g., rolling updates)
 
-![Ansible](Images/ansible.png)
+![Ansible](ansible.png)
 
 # Setting Up Ansible on Ubuntu EC2 Instances
 
